@@ -1,4 +1,4 @@
-# Mis_443_DataCo# Final Project - MIS443
+# Final Project - MIS443
 
 # DataCo Smart Supply Chain Database Analysis
 
